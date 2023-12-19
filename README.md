@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @gaiborjosue<br>👀 I’m interested in computer science and programming.<br>🌱 I am currently working at Nobrainer @ Sensein MIT Research Group<br>💞️ I want to collaborate on Web Development Projects, Robotics, Machine Learning, Data Analysis, etc.<br>📫 How to reach me: Contact me at https://edwardgaibor.me/contact.html
+👋 Hi, I’m @gaiborjosue<br>👀 My major is in computer science.<br>🌱 I am currently working at Nobrainer @ Sensein MIT Research Group and @MPSYCH at UMass Boston as a Sloan Undergrad Researcher.<br>💞️ I want to collaborate on Web Development Projects, Robotics, Machine Learning, Data Analysis, etc.<br>📫 How to reach me: Contact me at https://edwardgaibor.me/contact.html
 
 
 ## 🌐 Socials:

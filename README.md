@@ -1,7 +1,7 @@
 # Hi there, I’m Edward 👋
 
 ### 💼 What I’m up to
-- 🧑‍💻 **Part-Time Full-Stack Engineer** @ John Hancock – Manulife  
+- 🧑‍💻 **Full-Stack Engineer** @ John Hancock – Manulife  
 - 🔬 **Researcher** @ UMass Boston MPSYCH (Sloan Undergrad)  
 - 🎓 **Former Intern** @ MIT Sensein “NoBrainer”  
 

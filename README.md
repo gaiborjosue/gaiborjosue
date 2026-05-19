@@ -1,15 +1,8 @@
-# Hi there, I’m Edward 👋
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 
-### 💼 What I’m up to
-- 🧑‍💻 **Full-Stack Engineer** @ John Hancock – Manulife  
-- 🔬 **Researcher** @ UMass Boston MPSYCH (Sloan Undergrad)  
-- 🎓 **Former Intern** @ MIT Sensein “NoBrainer”  
+Currently working at John Hancock - Manulife on the GenAI team as a part-time Software Engineer, focusing on full stack development. Graduating with a Computer Science degree from UMass Boston in Spring 2026. I am also currently a LINC Research Fellow at Harvard & MGH. Research experience at MIT "NoBrainer" Sensein Group and UMB's Machine Psycology lab. I like to travel, hike, run and learn about photography.
 
-### 🚀 I’m passionate about
-- **Web Development** (Next.js, React, Tailwind)  
-- **Robotics** & **Embedded Systems**  
-- **Machine Learning** & **AI** (TensorFlow, scikit-learn)  
-- **Data Analysis** & **Visualization**  
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/edwardgaibor) 
 
